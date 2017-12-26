@@ -3,5 +3,5 @@
 ## Environment
 
 - Python 3.6
-- scikit-learn 0.19.1
-- numpy 1.13.3
+
+This project contains all demos when I studying machine learning. Tutorials can be found at http://www.cnblogs.com/wushangjue/ or my blog site: https://www.fujiabin.com
